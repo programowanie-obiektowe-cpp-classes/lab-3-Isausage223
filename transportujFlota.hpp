@@ -29,4 +29,5 @@ unsigned int transportujFlota(unsigned int towar)
 
     // 5) suma >= towar -> koniec, zwróć liczbę żaglowców
     return liczbaZaglowcow;
+    
 }
